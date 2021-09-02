@@ -1,0 +1,62 @@
+Body{
+    text-align: center;
+    padding-top: 800px;
+    margin: 0;
+}
+
+#Tim{
+    
+    width: 175px;
+    border-radius: 90px;
+    margin-bottom: 50px;
+}
+
+#welcome{
+    
+    background: Linear-gradient(#0ced97 0%,#1bde6c 100%);
+    position:absolute;
+    overflow:hidden;
+    height: 800px;
+    color: white;
+    left:0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    
+}
+
+h1{
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: inherit;
+    font-weight: 300;
+}
+
+h2{
+    
+        font-size: 30px;
+    line-height: 1.2;
+    font-family:cursive;
+    font-weight: 300;
+}
+
+#bio{
+    
+    padding: 50px;
+    text-align: center;
+    font-size: 60px;
+}
+
+p{
+    
+max-width: 750px;
+    margin: 25px auto; 
+    font-size: 50px;
+    
+    
+
+}
+
+
+
+
